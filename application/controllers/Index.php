@@ -16,7 +16,7 @@ class Index extends MY_Controller
 		$config = array();
 		$config["base_url"] = WEB_URL."/index/index";
 		$config["total_rows"] = $this->Billing_model->get_count();
-		$config["per_page"] = 8;
+		$config["per_page"] = 12;
 		$config["uri_segment"] = 3;
 		$this->pagination->initialize($config);
 		$page = ($this->uri->segment(3)) ? $this->uri->segment(3) : 0;
