@@ -1,12 +1,12 @@
 # eastvantage
-For Run this need to install any server like xamp,nginx ect
-install php and mysql v > 5.2
-This assigment i did using codeigniter version 3.0
-Sql file in sql_diff.sql
-Data base and path server releted information basic_setup.php
-Table name and some other constant in table_confing.php
+1.For Run this need to install any server like xamp,nginx ect
+2.install php and mysql 
+3.This assigment i did using codeigniter version 3.0
+4.Sql file in sql_diff.sql
+5.Data base and path server releted information basic_setup.php
+6. Table name and some other constant in table_confing.php
 
-For Bug and Issue Releated Plese follow bug_list.odt
+7.For Bug and Issue Releated Plese follow bug_list.odt
 
 List of Some Issue
 
